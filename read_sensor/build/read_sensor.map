@@ -1,0 +1,1339 @@
+Archive member included because of file (symbol)
+
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (__aeabi_dsub)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (__aeabi_ddiv)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_truncdfsf2.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (__aeabi_d2f)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-exit.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (exit)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-init.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (__libc_init_array)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (memset)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+                              build/src/main.o (sprintf)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcat.o)
+                              build/src/main.o (strcat)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcpy.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcat.o) (strcpy)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-atexit.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (_dtoa_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-fini.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (_localeconv_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (_malloc_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (memchr)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memcpy.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o) (memcpy)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o) (__malloc_lock)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o) (_Balloc)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o) (strcmp)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (strlen)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (__ssprint_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__atexit.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o) (_calloc_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o) (_free_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o) (memmove)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o) (_realloc_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o) (errno)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_cmpdf2.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_fixdfsi.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_dvmd_tls.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o) (__divdi3)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o) (__udivdi3)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o) (_sbrk)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(_exit.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-exit.o) (_exit)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (atan)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o) (fabs)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (pow)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (sqrt)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (__ieee754_pow)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o) (__ieee754_sqrt)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (finite)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (__fdlib_version)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (matherr)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o) (nan)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (rint)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o) (scalbn)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o) (copysign)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x00000000         0x00100000         xr
+RAM              0x10000000         0x00040000         xrw
+RAM2             0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+LOAD build/src/main.o
+LOAD build/src/boards/CDP-TZ01B/TZ01_console.o
+LOAD build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+LOAD build/src/boards/CDP-TZ01B/TZ01_system.o
+LOAD build/src/drivers/MPU-9250.o
+LOAD build/src/utils/utils.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+LOAD build/bootloader_TZ10xx.o
+LOAD build/startup_TZ10xx.o
+START GROUP
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a
+END GROUP
+START GROUP
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a
+END GROUP
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+START GROUP
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a
+END GROUP
+                0x00000000                . = ORIGIN (ROM)
+
+.boot           0x00000000       0xfc
+ *(.boot)
+ .boot          0x00000000       0xfc build/bootloader_TZ10xx.o
+                0x00000044                BootLoader
+                0x000000fc                __eboot = (LOADADDR (.boot) + SIZEOF (.boot))
+
+.text           0x10000000    0x10afc load address 0x000000fc
+                0x10000000                __code_start__ = .
+ *(.vectors)
+ .vectors       0x10000000      0x178 build/startup_TZ10xx.o
+                0x10000000                __Vectors
+ *(.startup)
+ .startup       0x10000178       0x1c build/startup_TZ10xx.o
+                0x10000178                Reset_Handler
+ *(.text .text.*)
+ .text          0x10000194        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+ .text          0x10000194       0x5c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+ .text          0x100001f0       0x74 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+                0x100001f0                _start
+                0x100001f0                _mainCRTStartup
+ .text          0x10000264       0xf8 build/src/main.o
+                0x10000264                main
+ .text          0x1000035c      0x260 build/src/boards/CDP-TZ01B/TZ01_console.o
+                0x1000035c                TZ01_console_init
+                0x100003b4                TZ01_console_getc
+                0x10000408                TZ01_console_putc
+                0x10000438                TZ01_console_gets
+                0x100004bc                TZ01_console_puts
+                0x1000053c                TZ01_console_read
+                0x1000057c                TZ01_console_write
+ *fill*         0x100005bc        0x4 
+ .text          0x100005c0      0x548 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+                0x100005c0                TZ01_motion_tracker_init
+                0x10000600                TZ01_motion_tracker_gyro_read
+                0x10000680                TZ01_motion_tracker_accel_read
+                0x10000700                TZ01_motion_tracker_temperature_read
+                0x100007ac                TZ01_motion_tracker_magnetometer_read
+                0x1000082c                TZ01_motion_tracker_acc_axis_angle
+                0x10000864                TZ01_motion_tracker_compute_axis_angle
+ .text          0x10000b08      0x500 build/src/boards/CDP-TZ01B/TZ01_system.o
+                0x10000c20                TZ01_system_tick_clear
+                0x10000c60                TZ01_system_tick_start
+                0x10000cf0                TZ01_system_tick_stop
+                0x10000d2c                TZ01_system_tick_is_active
+                0x10000d58                TZ01_system_tick_check_timeout
+                0x10000dc0                TZ01_system_init
+                0x10000f0c                TZ01_system_run
+ .text          0x10001008      0xbcc build/src/drivers/MPU-9250.o
+                0x100010bc                MPU9250_drv_enable_events
+                0x10001110                MPU9250_drv_disable_events
+                0x1000113c                MPU9250_drv_init
+                0x10001240                MPU9250_drv_sleep
+                0x10001270                MPU9250_drv_wakeup
+                0x100012a0                MPU9250_drv_start_gyro
+                0x100013b8                MPU9250_drv_stop_gyro
+                0x100013e8                MPU9250_drv_start_accel
+                0x100014fc                MPU9250_drv_stop_accel
+                0x1000152c                MPU9250_drv_start_magnetometer
+                0x100016c8                MPU9250_drv_stop_magnetometer
+                0x10001718                MPU9250_drv_start_lowpower_wom
+                0x10001764                MPU9250_drv_start_maesure
+                0x100017c4                MPU9250_drv_stop_maesure
+                0x100017f4                MPU9250_drv_read_gyro
+                0x100018ec                MPU9250_drv_read_accel
+                0x100019e4                MPU9250_drv_read_temperature
+                0x10001a40                MPU9250_drv_read_magnetometer
+ .text          0x10001bd4       0x7c build/src/utils/utils.o
+                0x10001bd4                Usleep
+ .text          0x10001c50       0x3c build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+                0x10001c50                SystemCoreClockUpdate
+                0x10001c6c                SystemInit
+ .text          0x10001c8c      0xd00 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+                0x1000280c                GPIO_Pin0_IRQHandler
+                0x10002818                GPIO_Pin1_IRQHandler
+                0x10002824                GPIO_Pin2_IRQHandler
+                0x10002830                GPIO_Pin3_IRQHandler
+                0x1000283c                GPIO_Pin4_IRQHandler
+                0x10002848                GPIO_Pin5_IRQHandler
+                0x10002854                GPIO_Pin6_IRQHandler
+                0x10002860                GPIO_Pin7_IRQHandler
+                0x1000286c                GPIO_Pin8_IRQHandler
+                0x10002878                GPIO_Pin9_IRQHandler
+                0x10002884                GPIO_Pin10_IRQHandler
+                0x10002890                GPIO_Pin11_IRQHandler
+                0x1000289c                GPIO_Pin12_IRQHandler
+                0x100028a8                GPIO_Pin13_IRQHandler
+                0x100028b4                GPIO_Pin14_IRQHandler
+                0x100028c0                GPIO_Pin15_IRQHandler
+                0x100028cc                GPIO_Pin16_IRQHandler
+                0x100028d8                GPIO_Pin17_IRQHandler
+                0x100028e4                GPIO_Pin18_IRQHandler
+                0x100028f0                GPIO_Pin19_IRQHandler
+                0x100028fc                GPIO_Pin20_IRQHandler
+                0x10002908                GPIO_Pin21_IRQHandler
+                0x10002914                GPIO_Pin22_IRQHandler
+                0x10002920                GPIO_Pin23_IRQHandler
+                0x1000292c                GPIO_Pin24_IRQHandler
+                0x10002938                GPIO_Pin25_IRQHandler
+                0x10002944                GPIO_Pin26_IRQHandler
+                0x10002950                GPIO_Pin27_IRQHandler
+                0x1000295c                GPIO_Pin28_IRQHandler
+                0x10002968                GPIO_Pin29_IRQHandler
+                0x10002974                GPIO_Pin30_IRQHandler
+                0x10002980                GPIO_Pin31_IRQHandler
+ .text          0x1000298c     0x3e58 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+                0x100041c8                PMU_MakeWakeupMasks
+                0x10006670                PMU_WKUP_IRQHandler
+ .text          0x100067e4      0xf3c build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+                0x10007710                SPIM3_IRQHandler
+ .text          0x10007720      0x8e4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+                0x10007ec0                TMR0_IRQHandler
+                0x10007ff4                TMR1_IRQHandler
+ .text          0x10008004      0xe5c build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+                0x10008e50                UART1_IRQHandler
+ .text          0x10008e60        0x0 build/bootloader_TZ10xx.o
+ .text          0x10008e60        0x2 build/startup_TZ10xx.o
+                0x10008e60                ADVTMR3_IRQHandler
+                0x10008e60                DebugMon_Handler
+                0x10008e60                SDMAC7_IRQHandler
+                0x10008e60                ADVTMR0_CMP_IRQHandler
+                0x10008e60                I2C0_IRQHandler
+                0x10008e60                HardFault_Handler
+                0x10008e60                SysTick_Handler
+                0x10008e60                ADVTMR0_IRQHandler
+                0x10008e60                PendSV_Handler
+                0x10008e60                NMI_Handler
+                0x10008e60                I2C1_IRQHandler
+                0x10008e60                ADVTMR3_CMP_IRQHandler
+                0x10008e60                ADVTMR1_CAP_IRQHandler
+                0x10008e60                SRAM_M2M_IRQHandler
+                0x10008e60                ADVTMR2_IRQHandler
+                0x10008e60                UART0_IRQHandler
+                0x10008e60                SDMAC2_IRQHandler
+                0x10008e60                SPIC_IRQHandler
+                0x10008e60                UsageFault_Handler
+                0x10008e60                SDMAC0_IRQHandler
+                0x10008e60                ADVTMR2_CAP_IRQHandler
+                0x10008e60                SRAM_ERR_IRQHandler
+                0x10008e60                SPIM2_IRQHandler
+                0x10008e60                ADVTMR3_CAP_IRQHandler
+                0x10008e60                BOR_IRQHandler
+                0x10008e60                SDMAC3_IRQHandler
+                0x10008e60                I2C2_IRQHandler
+                0x10008e60                RTC_IRQHandler
+                0x10008e60                ADVTMR1_IRQHandler
+                0x10008e60                UART2_IRQHandler
+                0x10008e60                SDMAC6_IRQHandler
+                0x10008e60                ADVTMR1_CMP_IRQHandler
+                0x10008e60                Default_Handler
+                0x10008e60                SDMAC5_IRQHandler
+                0x10008e60                SDMAC1_IRQHandler
+                0x10008e60                USB_IRQHandler
+                0x10008e60                SDMAC4_IRQHandler
+                0x10008e60                ADVTMR2_CMP_IRQHandler
+                0x10008e60                MemManage_Handler
+                0x10008e60                WDT_IRQHandler
+                0x10008e60                SVC_Handler
+                0x10008e60                ADVTMR0_CAP_IRQHandler
+                0x10008e60                AESA_IRQHandler
+                0x10008e60                SPIM0_IRQHandler
+                0x10008e60                BusFault_Handler
+                0x10008e60                SPIM1_IRQHandler
+ *fill*         0x10008e62        0x2 
+ .text          0x10008e64      0x370 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+                0x10008e64                __aeabi_drsub
+                0x10008e6c                __aeabi_dsub
+                0x10008e6c                __subdf3
+                0x10008e70                __aeabi_dadd
+                0x10008e70                __adddf3
+                0x100090e8                __floatunsidf
+                0x100090e8                __aeabi_ui2d
+                0x10009108                __floatsidf
+                0x10009108                __aeabi_i2d
+                0x1000912c                __aeabi_f2d
+                0x1000912c                __extendsfdf2
+                0x10009168                __floatundidf
+                0x10009168                __aeabi_ul2d
+                0x10009178                __floatdidf
+                0x10009178                __aeabi_l2d
+ .text          0x100091d4      0x424 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+                0x100091d4                __aeabi_dmul
+                0x100091d4                __muldf3
+                0x10009428                __divdf3
+                0x10009428                __aeabi_ddiv
+ .text          0x100095f8       0xa0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_truncdfsf2.o)
+                0x100095f8                __truncdfsf2
+                0x100095f8                __aeabi_d2f
+ .text          0x10009698        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-exit.o)
+ .text.exit     0x10009698       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-exit.o)
+                0x10009698                exit
+ .text          0x100096b8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+ .text          0x100096b8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x100096b8       0x50 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-init.o)
+                0x100096b8                __libc_init_array
+ .text          0x10009708        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+ .text.memset   0x10009708       0x9c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+                0x10009708                memset
+ .text          0x100097a4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x100097a4       0x44 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+                0x100097a4                _sprintf_r
+ .text.sprintf  0x100097e8       0x4c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+                0x100097e8                sprintf
+ .text          0x10009834        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcat.o)
+ .text.strcat   0x10009834       0x40 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcat.o)
+                0x10009834                strcat
+ .text          0x10009874        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcpy.o)
+ .text.strcpy   0x10009874       0xbc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcpy.o)
+                0x10009874                strcpy
+ .text          0x10009930        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .text._svfprintf_r
+                0x10009930     0x14d0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+                0x10009930                _svfprintf_r
+ .text          0x1000ae00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x1000ae00       0x14 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x1000ae14       0xd4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o)
+                0x1000ae14                __call_exitprocs
+ .text          0x1000aee8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-atexit.o)
+ .text.atexit   0x1000aee8        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-atexit.o)
+                0x1000aee8                atexit
+ .text          0x1000aef4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .text.quorem   0x1000aef4      0x12c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .text._dtoa_r  0x1000b020      0xe90 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+                0x1000b020                _dtoa_r
+ .text          0x1000beb0        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x1000beb0       0x2c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-fini.o)
+                0x1000beb0                __libc_fini_array
+ .text          0x1000bedc        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x1000bedc       0x44 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x1000bedc                _setlocale_r
+ .text.__locale_charset
+                0x1000bf20        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x1000bf20                __locale_charset
+ .text.__locale_mb_cur_max
+                0x1000bf28        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x1000bf28                __locale_mb_cur_max
+ .text.__locale_msgcharset
+                0x1000bf34        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x1000bf34                __locale_msgcharset
+ .text.__locale_cjk_lang
+                0x1000bf3c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x1000bf3c                __locale_cjk_lang
+ .text._localeconv_r
+                0x1000bf40        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x1000bf40                _localeconv_r
+ .text.setlocale
+                0x1000bf48       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x1000bf48                setlocale
+ .text.localeconv
+                0x1000bf58        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x1000bf58                localeconv
+ .text          0x1000bf60        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x1000bf60      0x524 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x1000bf60                _malloc_r
+ .text          0x1000c484        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+ .text.memchr   0x1000c484       0x94 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+                0x1000c484                memchr
+ .text          0x1000c518      0x134 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memcpy.o)
+                0x1000c518                memcpy
+ .text          0x1000c64c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x1000c64c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+                0x1000c64c                __malloc_lock
+ .text.__malloc_unlock
+                0x1000c650        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+                0x1000c650                __malloc_unlock
+ .text          0x1000c654        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ .text._Balloc  0x1000c654       0x4c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000c654                _Balloc
+ .text._Bfree   0x1000c6a0       0x14 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000c6a0                _Bfree
+ .text.__multadd
+                0x1000c6b4       0x84 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000c6b4                __multadd
+ .text.__s2b    0x1000c738       0x98 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000c738                __s2b
+ .text.__hi0bits
+                0x1000c7d0       0x40 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000c7d0                __hi0bits
+ .text.__lo0bits
+                0x1000c810       0x5c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000c810                __lo0bits
+ .text.__i2b    0x1000c86c       0x14 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000c86c                __i2b
+ .text.__multiply
+                0x1000c880      0x134 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000c880                __multiply
+ .text.__pow5mult
+                0x1000c9b4       0xa0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000c9b4                __pow5mult
+ .text.__lshift
+                0x1000ca54       0xac c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000ca54                __lshift
+ .text.__mcmp   0x1000cb00       0x48 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000cb00                __mcmp
+ .text.__mdiff  0x1000cb48       0xd4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000cb48                __mdiff
+ .text.__ulp    0x1000cc1c       0x40 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000cc1c                __ulp
+ .text.__b2d    0x1000cc5c       0xc4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000cc5c                __b2d
+ .text.__d2b    0x1000cd20       0xb8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000cd20                __d2b
+ .text.__ratio  0x1000cdd8       0x58 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000cdd8                __ratio
+ .text._mprec_log10
+                0x1000ce30       0x34 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000ce30                _mprec_log10
+ .text.__copybits
+                0x1000ce64       0x48 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000ce64                __copybits
+ .text.__any_on
+                0x1000ceac       0x60 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1000ceac                __any_on
+ .text          0x1000cf0c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+ .text.__fpclassifyd
+                0x1000cf0c       0x58 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+                0x1000cf0c                __fpclassifyd
+ .text          0x1000cf64        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x1000cf64       0x24 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+                0x1000cf64                _sbrk_r
+ *fill*         0x1000cf88       0x18 
+ .text          0x1000cfa0      0x2e0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+                0x1000cfa8                strcmp
+ .text          0x1000d280        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+ .text.strlen   0x1000d280       0x5c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+                0x1000d280                strlen
+ .text          0x1000d2dc        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .text.__ssprint_r
+                0x1000d2dc      0x104 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+                0x1000d2dc                __ssprint_r
+ .text._svfiprintf_r
+                0x1000d3e0      0xa94 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+                0x1000d3e0                _svfiprintf_r
+ .text          0x1000de74        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x1000de74       0xa4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__atexit.o)
+                0x1000de74                __register_exitproc
+ .text          0x1000df18        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+ .text._calloc_r
+                0x1000df18       0x60 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+                0x1000df18                _calloc_r
+ .text          0x1000df78        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x1000df78       0x9c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+                0x1000df78                _malloc_trim_r
+ .text._free_r  0x1000e014      0x1b0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+                0x1000e014                _free_r
+ .text          0x1000e1c4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+ .text.memmove  0x1000e1c4       0xc8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+                0x1000e1c4                memmove
+ .text          0x1000e28c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x1000e28c      0x3ec c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+                0x1000e28c                _realloc_r
+ .text          0x1000e678        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x1000e678       0x1c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+                0x1000e678                cleanup_glue
+ .text._reclaim_reent
+                0x1000e694       0x88 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+                0x1000e694                _reclaim_reent
+ .text          0x1000e71c      0x110 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_cmpdf2.o)
+                0x1000e71c                __gtdf2
+                0x1000e71c                __gedf2
+                0x1000e724                __ltdf2
+                0x1000e724                __ledf2
+                0x1000e72c                __nedf2
+                0x1000e72c                __eqdf2
+                0x1000e72c                __cmpdf2
+                0x1000e7a8                __aeabi_cdrcmple
+                0x1000e7b8                __aeabi_cdcmpeq
+                0x1000e7b8                __aeabi_cdcmple
+                0x1000e7c8                __aeabi_dcmpeq
+                0x1000e7dc                __aeabi_dcmplt
+                0x1000e7f0                __aeabi_dcmple
+                0x1000e804                __aeabi_dcmpge
+                0x1000e818                __aeabi_dcmpgt
+ .text          0x1000e82c       0x50 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_fixdfsi.o)
+                0x1000e82c                __aeabi_d2iz
+                0x1000e82c                __fixdfsi
+ .text          0x1000e87c       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+                0x1000e87c                __aeabi_uldivmod
+ .text          0x1000e8ac       0x60 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+                0x1000e8ac                __gnu_ldivmod_helper
+                0x1000e8dc                __gnu_uldivmod_helper
+ .text          0x1000e90c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_dvmd_tls.o)
+                0x1000e90c                __aeabi_idiv0
+                0x1000e90c                __aeabi_ldiv0
+ .text          0x1000e910      0x29c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+                0x1000e910                __divdi3
+ .text          0x1000ebac      0x26c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+                0x1000ebac                __udivdi3
+ .text          0x1000ee18        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .text._sbrk    0x1000ee18       0x1c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+                0x1000ee18                _sbrk
+ .text          0x1000ee34        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(_exit.o)
+ .text._exit    0x1000ee34        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(_exit.o)
+                0x1000ee34                _exit
+ .text          0x1000ee38        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .text          0x1000ee38        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .text          0x1000ee38        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .text.atan     0x1000ee38      0x340 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+                0x1000ee38                atan
+ .text          0x1000f178        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+ .text.fabs     0x1000f178        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+                0x1000f178                fabs
+ .text          0x1000f180        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .text.pow      0x1000f180      0x2f8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+                0x1000f180                pow
+ .text          0x1000f478        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ .text.sqrt     0x1000f478       0xac c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+                0x1000f478                sqrt
+ .text          0x1000f524        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ *fill*         0x1000f524        0x4 
+ .text.__ieee754_pow
+                0x1000f528      0xa98 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+                0x1000f528                __ieee754_pow
+ .text          0x1000ffc0        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+ .text.__ieee754_sqrt
+                0x1000ffc0      0x188 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+                0x1000ffc0                __ieee754_sqrt
+ .text          0x10010148        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+ .text.finite   0x10010148        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+                0x10010148                finite
+ .text          0x10010154        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+ .text          0x10010154        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+ .text.matherr  0x10010154        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+                0x10010154                matherr
+ .text          0x10010158        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+ .text.nan      0x10010158        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+                0x10010158                nan
+ .text          0x10010164        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ .text.rint     0x10010164      0x118 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+                0x10010164                rint
+ .text          0x1001027c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+ *fill*         0x1001027c        0x4 
+ .text.scalbn   0x10010280      0x108 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+                0x10010280                scalbn
+ .text          0x10010388        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+ .text.copysign
+                0x10010388       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+                0x10010388                copysign
+ .text          0x10010398        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+ .text.__errno  0x10010398        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+                0x10010398                __errno
+ *(.init)
+ .init          0x100103a4        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+                0x100103a4                _init
+ .init          0x100103a8        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ *(.fini)
+ .fini          0x100103b0        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+                0x100103b0                _fini
+ .fini          0x100103b4        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x100103bc       0x38 build/src/main.o
+ .rodata        0x100103f4       0x10 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .rodata        0x10010404        0xc build/src/drivers/MPU-9250.o
+ .rodata        0x10010410       0x34 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+                0x10010418                Driver_GPIO
+ .rodata        0x10010444      0x234 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+                0x10010448                Driver_PMU
+ .rodata        0x10010678       0x64 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+                0x10010698                Driver_SPI3
+ .rodata        0x100106dc       0xd0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+                0x100106f4                Driver_TMR0
+                0x1001074c                Driver_TMR1
+ .rodata        0x100107ac       0x7c build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+                0x100107cc                Driver_UART1
+ .rodata.str1.4
+                0x10010828        0x2 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x1001082a        0x2 
+ .rodata._global_impure_ptr
+                0x1001082c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+                0x1001082c                _global_impure_ptr
+ .rodata.zeroes.6916
+                0x10010830       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x10010840       0x42 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x10010882        0x2 
+ .rodata.blanks.6915
+                0x10010884       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x10010894       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x100108a4        0xa c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+ *fill*         0x100108ae        0x2 
+ .rodata.p05.5296
+                0x100108b0        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ *fill*         0x100108bc        0x4 
+ .rodata.__mprec_tens
+                0x100108c0       0xc8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x100108c0                __mprec_tens
+ .rodata.__mprec_bigtens
+                0x10010988       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10010988                __mprec_bigtens
+ .rodata.__mprec_tinytens
+                0x100109b0       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x100109b0                __mprec_tinytens
+ .rodata.str1.4
+                0x00000000       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .rodata.blanks.6859
+                0x100109d8       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.6860
+                0x100109e8       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .rodata.atanlo
+                0x100109f8       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .rodata.atanhi
+                0x10010a18       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .rodata.str1.4
+                0x10010a38        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .rodata.str1.4
+                0x10010a3c        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ *fill*         0x10010a44        0x4 
+ .rodata.dp_h   0x10010a48       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .rodata.dp_l   0x10010a58       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .rodata.bp     0x10010a68       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .rodata.str1.4
+                0x00000000        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .rodata.TWO52  0x10010a78       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ *(.eh_frame*)
+ .eh_frame      0x10010a88        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+ .eh_frame      0x10010a88       0x70 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+ .eh_frame      0x10010af8        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+                0x10010afc                __code_end__ = .
+                0x00010bf8                __ecode = (LOADADDR (.text) + SIZEOF (.text))
+
+.glue_7         0x10010afc        0x0 load address 0x00010bf8
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x10010afc        0x0 load address 0x00010bf8
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x10010afc        0x0 load address 0x00010bf8
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x10010afc        0x0 load address 0x00010bf8
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x10010afc        0x0 load address 0x00010bf8
+ .iplt          0x00000000        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+
+.ARM.extab      0x10010afc        0x0 load address 0x00010bf8
+                0x10010afc                __extab_start = .
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x10010afc        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.extab     0x10010afc        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .ARM.extab     0x10010afc        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+                0x10010afc                __extab_end = .
+                0x00010bf8                __eextab = (LOADADDR (.ARM.extab) + SIZEOF (.ARM.extab))
+
+.ARM.exidx      0x10010afc        0x8 load address 0x00010bf8
+                0x10010afc                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x10010afc        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.exidx     0x10010b04        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx     0x10010b04        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x10010b04                __exidx_end = .
+                0x00010c00                __etext = (LOADADDR (.ARM.exidx) + SIZEOF (.ARM.exidx))
+
+.rel.dyn        0x10010b04        0x0 load address 0x00010c00
+ .rel.iplt      0x00000000        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+
+.data           0x10010b08      0x8e4 load address 0x00010c00
+                0x10010b08                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x10010b08        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+ .data          0x10010b08        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+                0x10010b08                __dso_handle
+ .data          0x10010b0c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .data          0x10010b0c        0x0 build/src/main.o
+ .data          0x10010b0c        0x4 build/src/boards/CDP-TZ01B/TZ01_console.o
+                0x10010b0c                tz10xx_drv_uart
+ .data          0x10010b10        0x0 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .data          0x10010b10        0xc build/src/boards/CDP-TZ01B/TZ01_system.o
+ .data          0x10010b1c        0x0 build/src/drivers/MPU-9250.o
+ .data          0x10010b1c        0x0 build/src/utils/utils.o
+ .data          0x10010b1c        0x4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+                0x10010b1c                SystemCoreClock
+ .data          0x10010b20        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+ .data          0x10010b20        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+ .data          0x10010b20        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+ .data          0x10010b20        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+ .data          0x10010b20        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+ .data          0x10010b20        0x0 build/bootloader_TZ10xx.o
+ .data          0x10010b20        0x0 build/startup_TZ10xx.o
+ .data          0x10010b20        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+ .data          0x10010b20        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+ .data          0x10010b20        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x10010b20        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-exit.o)
+ .data          0x10010b20        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x10010b20      0x428 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x10010f48        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+                0x10010f48                _impure_ptr
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-init.o)
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcat.o)
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcpy.o)
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o)
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-atexit.o)
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-fini.o)
+ .data          0x10010f4c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .data.lc_message_charset
+                0x10010f4c       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .data.lconv    0x10010f6c       0x38 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .data.lc_ctype_charset
+                0x10010fa4       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .data.__mb_cur_max
+                0x10010fc4        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x10010fc4                __mb_cur_max
+ .data          0x10010fc8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x10010fc8      0x408 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x10010fc8                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x100113d0        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x100113d0                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x100113d4        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x100113d4                __malloc_sbrk_base
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memcpy.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__atexit.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_cmpdf2.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_fixdfsi.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_dvmd_tls.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(_exit.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+ .data          0x100113d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+ .data.__fdlib_version
+                0x100113d8        0x1 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+                0x100113d8                __fdlib_version
+ .data          0x100113d9        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+ .data          0x100113d9        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+ .data          0x100113d9        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ .data          0x100113d9        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+ .data          0x100113d9        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+ .data          0x100113d9        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+                0x100113dc                . = ALIGN (0x4)
+ *fill*         0x100113d9        0x3 
+                0x100113dc                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x100113dc                PROVIDE (__preinit_array_end, .)
+                0x100113dc                . = ALIGN (0x4)
+                0x100113dc                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x100113dc        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x100113e0        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+                0x100113e4                PROVIDE (__init_array_end, .)
+                0x100113e4                . = ALIGN (0x4)
+                0x100113e4                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x100113e4        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+                0x100113e8                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x100113e8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+ .jcr           0x100113e8        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+                0x100113ec                . = ALIGN (0x4)
+                0x100113ec                __data_end__ = .
+                0x000114e4                __edata = (LOADADDR (.data) + SIZEOF (.data))
+
+.igot.plt       0x100113ec        0x0 load address 0x000114e4
+ .igot.plt      0x00000000        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+
+.bss            0x20000000      0x260
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000000        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+ .bss           0x20000000       0x1c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+ .bss           0x2000001c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .bss           0x2000001c        0x0 build/src/main.o
+ .bss           0x2000001c        0x0 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .bss           0x2000001c        0x0 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .bss           0x2000001c       0x28 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .bss           0x20000044       0x18 build/src/drivers/MPU-9250.o
+ .bss           0x2000005c        0x0 build/src/utils/utils.o
+ .bss           0x2000005c        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+ .bss           0x2000005c       0x88 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+ .bss           0x200000e4       0x3c build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+ .bss           0x20000120       0x24 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+ .bss           0x20000144       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+ .bss           0x20000164       0xb4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+ .bss           0x20000218        0x0 build/bootloader_TZ10xx.o
+ .bss           0x20000218        0x0 build/startup_TZ10xx.o
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-exit.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-init.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcat.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcpy.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-atexit.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-fini.o)
+ .bss           0x20000218        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x20000218        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x20000218                _PathLocale
+ .bss.__nlocale_changed
+                0x2000021c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x2000021c                __nlocale_changed
+ .bss.__mlocale_changed
+                0x20000220        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x20000220                __mlocale_changed
+ .bss           0x20000224        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x20000224        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x20000224                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x20000228        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x20000228                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x2000022c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x2000022c                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x20000230       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x20000230                __malloc_current_mallinfo
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memcpy.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__atexit.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_dvmd_tls.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+ .bss           0x20000258        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .bss.heap_end.4079
+                0x20000258        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(_exit.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+ .bss           0x2000025c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+ *(COMMON)
+ COMMON         0x2000025c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+                0x2000025c                errno
+                0x20000260                . = ALIGN (0x4)
+                0x20000260                __bss_end__ = .
+
+.heap           0x20000260      0xc00
+                0x20000260                __end__ = .
+                0x20000260                end = __end__
+ *(.heap*)
+ .heap          0x20000260      0xc00 build/startup_TZ10xx.o
+                0x20000260                __heap_base
+                0x20000e60                __heap_limit = .
+
+.stack_dummy    0x20000260      0x400
+ *(.stack*)
+ .stack         0x20000260      0x400 build/startup_TZ10xx.o
+                0x20008000                __initial_sp = (ORIGIN (RAM2) + 0x8000)
+                0x20007c00                __stack_limit = (__initial_sp - SIZEOF (.stack_dummy))
+                0x20008000                PROVIDE (__stack, __initial_sp)
+                0x00000001                ASSERT ((__stack_limit >= __heap_limit), region RAM2 overflowed with stack)
+OUTPUT(read_sensor.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2e
+ .ARM.attributes
+                0x00000000       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+ .ARM.attributes
+                0x00000022       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+ .ARM.attributes
+                0x00000054       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.attributes
+                0x00000074       0x37 build/src/main.o
+ .ARM.attributes
+                0x000000ab       0x37 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .ARM.attributes
+                0x000000e2       0x37 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .ARM.attributes
+                0x00000119       0x37 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .ARM.attributes
+                0x00000150       0x37 build/src/drivers/MPU-9250.o
+ .ARM.attributes
+                0x00000187       0x37 build/src/utils/utils.o
+ .ARM.attributes
+                0x000001be       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+ .ARM.attributes
+                0x000001f5       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+ .ARM.attributes
+                0x0000022c       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+ .ARM.attributes
+                0x00000263       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+ .ARM.attributes
+                0x0000029a       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+ .ARM.attributes
+                0x000002d1       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+ .ARM.attributes
+                0x00000308       0x1f build/bootloader_TZ10xx.o
+ .ARM.attributes
+                0x00000327       0x1f build/startup_TZ10xx.o
+ .ARM.attributes
+                0x00000346       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000368       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000038a       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x000003ac       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000003de       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000410       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000442       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000474       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x000004a6       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcat.o)
+ .ARM.attributes
+                0x000004d8       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x0000050a       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x0000053c       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000056e       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000005a0       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x000005d2       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000604       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000636       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000668       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x0000069a       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000006ba       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000006ec       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x0000071e       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x00000750       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000782       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x000007a2       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000007d4       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000806       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000838       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x0000086a       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000089c       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000008ce       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000900       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000932       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000954       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000976       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000998       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000009ca       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000009ec       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000a1e       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000a50       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000a82       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000ab4       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .ARM.attributes
+                0x00000ae6       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .ARM.attributes
+                0x00000b08       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .ARM.attributes
+                0x00000b3a       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x00000b6c       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .ARM.attributes
+                0x00000b9e       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ .ARM.attributes
+                0x00000bd0       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .ARM.attributes
+                0x00000c02       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x00000c34       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x00000c66       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x00000c98       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x00000cca       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x00000cfc       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x00000d2e       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x00000d60       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x00000d92       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 build/src/main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .comment       0x00000000       0x71 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .comment       0x00000000       0x71 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .comment       0x00000000       0x71 build/src/drivers/MPU-9250.o
+ .comment       0x00000000       0x71 build/src/utils/utils.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+
+.debug_info     0x00000000    0x19b38
+ .debug_info    0x00000000      0x17d build/src/main.o
+ .debug_info    0x0000017d     0x133c build/src/boards/CDP-TZ01B/TZ01_console.o
+ .debug_info    0x000014b9      0x951 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .debug_info    0x00001e0a     0x163a build/src/boards/CDP-TZ01B/TZ01_system.o
+ .debug_info    0x00003444     0x1ab8 build/src/drivers/MPU-9250.o
+ .debug_info    0x00004efc      0x13d build/src/utils/utils.o
+ .debug_info    0x00005039      0x289 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+ .debug_info    0x000052c2     0x212f build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+ .debug_info    0x000073f1     0xad79 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+ .debug_info    0x0001216a     0x2839 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+ .debug_info    0x000149a3     0x252d build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+ .debug_info    0x00016ed0     0x2b47 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+ .debug_info    0x00019a17       0x94 build/bootloader_TZ10xx.o
+ .debug_info    0x00019aab       0x8d build/startup_TZ10xx.o
+
+.debug_abbrev   0x00000000     0x1b6d
+ .debug_abbrev  0x00000000       0xa9 build/src/main.o
+ .debug_abbrev  0x000000a9      0x1ef build/src/boards/CDP-TZ01B/TZ01_console.o
+ .debug_abbrev  0x00000298      0x1a1 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .debug_abbrev  0x00000439      0x255 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .debug_abbrev  0x0000068e      0x29b build/src/drivers/MPU-9250.o
+ .debug_abbrev  0x00000929       0xb6 build/src/utils/utils.o
+ .debug_abbrev  0x000009df       0xc7 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+ .debug_abbrev  0x00000aa6      0x333 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+ .debug_abbrev  0x00000dd9      0x3e6 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+ .debug_abbrev  0x000011bf      0x301 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+ .debug_abbrev  0x000014c0      0x330 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+ .debug_abbrev  0x000017f0      0x357 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+ .debug_abbrev  0x00001b47       0x14 build/bootloader_TZ10xx.o
+ .debug_abbrev  0x00001b5b       0x12 build/startup_TZ10xx.o
+
+.debug_aranges  0x00000000      0x1c8
+ .debug_aranges
+                0x00000000       0x20 build/src/main.o
+ .debug_aranges
+                0x00000020       0x20 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .debug_aranges
+                0x00000040       0x20 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .debug_aranges
+                0x00000060       0x20 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .debug_aranges
+                0x00000080       0x20 build/src/drivers/MPU-9250.o
+ .debug_aranges
+                0x000000a0       0x20 build/src/utils/utils.o
+ .debug_aranges
+                0x000000c0       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+ .debug_aranges
+                0x000000e0       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+ .debug_aranges
+                0x00000100       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+ .debug_aranges
+                0x00000120       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+ .debug_aranges
+                0x00000140       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+ .debug_aranges
+                0x00000160       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+ .debug_aranges
+                0x00000180       0x20 build/bootloader_TZ10xx.o
+ .debug_aranges
+                0x000001a0       0x28 build/startup_TZ10xx.o
+
+.debug_line     0x00000000     0x2bd0
+ .debug_line    0x00000000      0x111 build/src/main.o
+ .debug_line    0x00000111      0x244 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .debug_line    0x00000355      0x26e build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .debug_line    0x000005c3      0x2cf build/src/boards/CDP-TZ01B/TZ01_system.o
+ .debug_line    0x00000892      0x396 build/src/drivers/MPU-9250.o
+ .debug_line    0x00000c28      0x181 build/src/utils/utils.o
+ .debug_line    0x00000da9      0x14c build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+ .debug_line    0x00000ef5      0x459 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+ .debug_line    0x0000134e      0xad8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+ .debug_line    0x00001e26      0x571 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+ .debug_line    0x00002397      0x311 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+ .debug_line    0x000026a8      0x3ca build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+ .debug_line    0x00002a72       0xc5 build/bootloader_TZ10xx.o
+ .debug_line    0x00002b37       0x99 build/startup_TZ10xx.o
+
+.debug_str      0x00000000     0xb2ab
+ .debug_str     0x00000000      0x182 build/src/main.o
+                                0x1d2 (size before relaxing)
+ .debug_str     0x00000182     0x182d build/src/boards/CDP-TZ01B/TZ01_console.o
+                               0x1e6b (size before relaxing)
+ .debug_str     0x000019af      0x673 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+                                0xa05 (size before relaxing)
+ .debug_str     0x00002022      0x845 build/src/boards/CDP-TZ01B/TZ01_system.o
+                               0x21d9 (size before relaxing)
+ .debug_str     0x00002867      0x421 build/src/drivers/MPU-9250.o
+                               0x23e1 (size before relaxing)
+ .debug_str     0x00002c88       0x24 build/src/utils/utils.o
+                                0x1c0 (size before relaxing)
+ .debug_str     0x00002cac       0xb9 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+                                0x269 (size before relaxing)
+ .debug_str     0x00002d65      0xcb6 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+                               0x268c (size before relaxing)
+ .debug_str     0x00003a1b     0x629e build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+                               0x89b5 (size before relaxing)
+ .debug_str     0x00009cb9      0x582 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+                               0x24ce (size before relaxing)
+ .debug_str     0x0000a23b      0x7ed build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+                               0x2a77 (size before relaxing)
+ .debug_str     0x0000aa28      0x883 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+                               0x2c04 (size before relaxing)
+
+.debug_frame    0x00000000     0x35d0
+ .debug_frame   0x00000000       0x3c build/src/main.o
+ .debug_frame   0x0000003c      0x110 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .debug_frame   0x0000014c      0x110 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .debug_frame   0x0000025c      0x18c build/src/boards/CDP-TZ01B/TZ01_system.o
+ .debug_frame   0x000003e8      0x2f8 build/src/drivers/MPU-9250.o
+ .debug_frame   0x000006e0       0x38 build/src/utils/utils.o
+ .debug_frame   0x00000718       0x50 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/Device/Source/system_TZ10xx.o
+ .debug_frame   0x00000768      0x6c0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/GPIO_TZ10xx.o
+ .debug_frame   0x00000e28      0x8a0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/PMU_TZ10xx.o
+ .debug_frame   0x000016c8      0x538 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/SPI_TZ10xx.o
+ .debug_frame   0x00001c00      0x6dc build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/TMR_TZ10xx.o
+ .debug_frame   0x000022dc      0x620 build/_SDK/TOSHIBA.TZ10xx_DFP.1.39.0/RTE_Driver/UART_TZ10xx.o
+ .debug_frame   0x000028fc       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-exit.o)
+ .debug_frame   0x00002924       0x2c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-init.o)
+ .debug_frame   0x00002950       0x34 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+ .debug_frame   0x00002984       0x84 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+ .debug_frame   0x00002a08       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcat.o)
+ .debug_frame   0x00002a30       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00002a50       0x40 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00002a90       0x50 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00002ae0       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00002b00       0x88 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00002b88       0x34 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-fini.o)
+ .debug_frame   0x00002bbc       0x9c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .debug_frame   0x00002c58       0x58 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00002cb0       0x3c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+ .debug_frame   0x00002cec       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00002d1c      0x268 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ .debug_frame   0x00002f84       0x34 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00002fb8       0x2c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00002fe4       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00003004       0x78 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000307c       0x34 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x000030b0       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+ .debug_frame   0x000030d8       0x74 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+ .debug_frame   0x0000314c       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+ .debug_frame   0x0000317c       0x60 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x000031dc       0x58 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+ .debug_frame   0x00003234       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000325c       0x50 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+ .debug_frame   0x000032ac       0x34 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .debug_frame   0x000032e0       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+ .debug_frame   0x00003310       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .debug_frame   0x00003330       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(_exit.o)
+ .debug_frame   0x00003350       0x38 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .debug_frame   0x00003388       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x000033a8       0x44 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .debug_frame   0x000033ec       0x44 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ .debug_frame   0x00003430       0x64 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .debug_frame   0x00003494       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x000034c4       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+ .debug_frame   0x000034e4       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00003504       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00003524       0x3c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ .debug_frame   0x00003560       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x00003590       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x000035b0       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+
+.debug_ranges   0x00000000       0x20
+ .debug_ranges  0x00000000       0x20 build/startup_TZ10xx.o
